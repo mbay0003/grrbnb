@@ -19,6 +19,7 @@ main{
     width: 90%;
     margin: 0 auto;
     border: 1px solid #aaa;
+    background-color:#B29C96;
 }
 header{
     /* Photo by Wyatt Ryan on Unsplash */
@@ -48,8 +49,7 @@ form{
     padding: 1rem 1rem 2rem;
 }
 .form-box{
-    padding: 0.25rem 0 1rem;
-    background-color:#C0B0AF; 
+    padding: 0.25rem 0 1rem; 
 }
 label{
     display: block;
