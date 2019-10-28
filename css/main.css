@@ -27,7 +27,7 @@ header{
     background-image: url(../img/grrbnb-icon-192x192.jpeg);
     background-size: 100% auto;
     background-position: center center;
-    background-color:#C0B0AF;
+
 }
 header h1{
     font-size: 4rem;
@@ -49,6 +49,7 @@ form{
 }
 .form-box{
     padding: 0.25rem 0 1rem;
+    background-color:#C0B0AF; 
 }
 label{
     display: block;
