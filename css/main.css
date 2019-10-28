@@ -23,10 +23,11 @@ main{
 header{
     /* Photo by Wyatt Ryan on Unsplash */
     /* Replace this with an image that you select */
-    /* i replaced the image lol */
+    /* i replaced the image lol */ 
     background-image: url(../img/grrbnb-icon-192x192.jpeg);
     background-size: 100% auto;
     background-position: center center;
+    background-color:#C0B0AF;
 }
 header h1{
     font-size: 4rem;
